@@ -41,7 +41,7 @@ The dashboard provides a high-level overview of business performance through the
 
 # 📊 Dashboard Preview
 
-![Superstore Sales Dashboard](Images/Superstore_Sales_Dashboard.png)
+![Superstore Sales Dashboard](Superstore_Sales_Dashboard.png)
 
 ---
 
