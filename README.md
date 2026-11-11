@@ -203,7 +203,7 @@ The dataset contains Superstore business data used to analyse:
 - Payment Modes
 - Shipping Modes
 - Monthly Trends
-
+- More...
 ---
 
 # 🚀 Future Improvements
