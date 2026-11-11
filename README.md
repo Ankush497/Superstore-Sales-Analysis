@@ -220,25 +220,6 @@ Possible future enhancements for this project include:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Superstore-Sales-Analysis/
-│
-├── Dashboard/
-│   └── Superstore_Sales_Dashboard.pbix
-│
-├── Dataset/
-│   └── Superstore_Dataset.xlsx
-│
-├── Images/
-│   └── Superstore_Sales_Dashboard.png
-│
-└── README.md
-```
-
----
-
 # 👨‍💻 Author
 
 **Ankush Kumar**
